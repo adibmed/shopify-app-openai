@@ -1,0 +1,21 @@
+version: "3"
+services:
+  postgres:
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_DB=hellofy
+      - POSTGRES_USER=default
+      - POSTGRES_PASSWORD=secret
+    image: postgres:13.3
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8000:8080"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

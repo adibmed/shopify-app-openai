@@ -1,0 +1,29 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "8538fc16e6b9da87768f65308885c52c"
+name = "hellofy"
+handle = "hellofy"
+application_url = "https://distributed-dsl-decades-thumb.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "helllofy.myshopify.com"
+include_config_on_deploy = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_products"
+
+[auth]
+redirect_urls = [
+  "https://distributed-dsl-decades-thumb.trycloudflare.com/auth/callback",
+  "https://distributed-dsl-decades-thumb.trycloudflare.com/auth/shopify/callback",
+  "https://distributed-dsl-decades-thumb.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-07"
+
+[pos]
+embedded = false
