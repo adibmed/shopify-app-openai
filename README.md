@@ -1,3 +1,4 @@
+![ShopiFast]([http://url/to/img.png](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvtlqg9gmkubpjj5res0v.gif))
 ## Read this blog: 
 ### 👉https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f
 ### 👉https://medium.com/@adibmed/lets-build-a-shopify-app-together-3247173a5824
