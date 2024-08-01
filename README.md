@@ -1,6 +1,6 @@
 ## Read this blog: 
-👉https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f
-👉https://medium.com/@adibmed/lets-build-a-shopify-app-together-3247173a5824
+### 👉https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f
+### 👉https://medium.com/@adibmed/lets-build-a-shopify-app-together-3247173a5824
 
 # Shopify App Template for Node
 
