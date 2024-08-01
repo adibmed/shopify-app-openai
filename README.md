@@ -1,3 +1,5 @@
+## Read this blog: https://dev.to/adibmed/a-detailed-guid-to-create-an-ai-shopify-app-step-by-step-1g7f
+
 # Shopify App Template for Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
